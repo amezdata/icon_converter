@@ -1,6 +1,8 @@
 # Icon Converter
 
-A simple GUI application to convert PNG images into various icon formats for Windows and MacOS.(Download the .exe file from the Standalone_for_windows folder)
+A simple GUI application to convert PNG images into various icon formats for Windows and MacOS.
+
+For convenience, a standalone executable for Windows is available in the Standalone_for_windows folder. This version does not require Python or any dependencies to be installed — simply download and run the .exe file.
 
 ## Features
 
