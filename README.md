@@ -1,6 +1,6 @@
 # Icon Converter
 
-A simple GUI application to convert PNG images into various icon formats for Windows and MacOS.
+A simple GUI application to convert PNG images into various icon formats for Windows and MacOS.(Download the .exe file from the Standalone_for_windows folder)
 
 ## Features
 
